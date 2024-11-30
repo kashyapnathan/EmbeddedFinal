@@ -1,0 +1,11 @@
+Queue Analysis Results
+=====================
+
+Average Queue Length: 5.48
+Maximum Queue Length: 29.00
+Average Queue Length during Bottlenecks: 18.77
+Average Queue Length during Normal Operation: 2.02
+
+Per-Tier Statistics:
+Client Tier Average Queue: 2.71
+Server Tier Average Queue: 2.85

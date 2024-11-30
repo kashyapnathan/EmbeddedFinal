@@ -1,0 +1,14 @@
+Milli-Bottleneck Analysis Summary
+========================================
+
+Total Requests: 15000
+Bottleneck Requests: 749
+Bottleneck Percentage: 4.993333333333334
+Avg Normal Rt: 121.77517367202302
+Avg Bottleneck Rt: 700.373831775701
+Bottleneck Threshold: 607.0
+
+Bottleneck Duration Analysis:
+Average Bottleneck Duration: 1.04 requests
+Maximum Bottleneck Duration: 3 requests
+Number of Bottleneck Events: 720
